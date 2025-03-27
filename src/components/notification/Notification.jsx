@@ -2,7 +2,7 @@ import s from './Notification.module.css';
 
 export default function Notification() {
     return (
-        <p>No feedback yet</p>
+        <p className={s.notification}>No feedback yet</p>
     );
 }
 

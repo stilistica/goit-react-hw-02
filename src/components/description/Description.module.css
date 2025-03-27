@@ -1,0 +1,12 @@
+.description {
+	border: 3px solid rgb(170, 40, 40);
+	border-radius: 25px;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+.description h1 {
+	margin: 0;
+}
+.description p {
+	color: rgb(170, 40, 40);
+}
